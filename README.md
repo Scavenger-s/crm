@@ -1,3 +1,4 @@
-# crm
-本项目为bos物流项目，客户模块调用的项目
-<li>运用cxf</li>
+# 客户关系模块(crm)
+### Introduction
+* 本项目为[bos物流项目客户模块](https://github.com/Scavenger-s/BosDemo.git)
+
